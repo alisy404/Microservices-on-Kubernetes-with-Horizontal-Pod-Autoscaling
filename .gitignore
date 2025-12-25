@@ -1,0 +1,8 @@
+__pycache__
+venv
+main.cpython-313.pyc
+bin
+include
+lib
+lib64
+pyvenv.cfg
