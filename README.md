@@ -33,14 +33,23 @@ The application is built using **FastAPI**, packaged with **Docker**, deployed o
 ## Project Structure
 
 python-app/
+
 ├── app/
+
 │ ├── main.py
+
 │ └── requirements.txt
+
 ├── Dockerfile
+
 ├── k8s/
+
 │ ├── deployment.yaml
+
 │ ├── service.yaml
+
 │ └── hpa.yaml
+
 └── README.md
 
 
