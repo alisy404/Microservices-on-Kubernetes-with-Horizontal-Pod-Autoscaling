@@ -1,0 +1,10 @@
+Python 3.10+
+Docker 20.10+
+Kubernetes (Minikube or kind)
+kubectl CLI
+Container runtime (Docker daemon running)
+Internet access for pulling base images
+
+Optional:
+Metrics Server (required for HPA)
+pip package manager
