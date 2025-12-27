@@ -8,3 +8,4 @@ Internet access for pulling base images
 Optional:
 Metrics Server (required for HPA)
 pip package manager
+
